@@ -107,7 +107,7 @@ function Footer() {
                             </div>
                             <div className="col-lg-3 col-md-12 col-sm-12 md-mb-32 footer-widget">
                                 <h4 className="widget-title">Our Location</h4>
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62313.07779093296!2d78.55990141862482!3d12.544794892904402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3badaaea950786f3%3A0x5f3b489cca9a30a2!2sBosco%20Soft%20Technologies%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1700025137802!5m2!1sen!2sin" width="300" height="150" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62313.07779093296!2d78.55990141862482!3d12.544794892904402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3badaaea950786f3%3A0x5f3b489cca9a30a2!2sBosco%20Soft%20Technologies%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1700025137802!5m2!1sen!2sin" width="300" height="150" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title='uacindia'></iframe>
                               
                             </div>
                         </div>
@@ -123,22 +123,22 @@ function Footer() {
                             {/* <div className="col-lg-6 col-md-4 text-right sm-text-center">
                                 <ul className="footer-social">
                                     <li>
-                                        <a href="#">
+                                        <a href="/">
                                             <i className="fa fa-facebook" />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="/">
                                             <i className="fa fa-twitter" />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="/">
                                             <i className="fa fa-pinterest-p" />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="/">
                                             <i className="fa fa-linkedin" />
                                         </a>
                                     </li>

@@ -31,22 +31,22 @@ function Header() {
                                             Closed on Weekends
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/">
                                                 <i className="fa fa-facebook" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/">
                                                 <i className="fa fa-twitter" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/">
                                                 <i className="fa fa-pinterest-p" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="/">
                                                 <i className="fa fa-linkedin" />
                                             </a>
                                         </li>
@@ -71,7 +71,7 @@ function Header() {
                                     <div className="rs-menu-area">
                                         <div className="main-menu">
                                             <div className="mobile-menu">
-                                                <a className="rs-menu-toggle">
+                                                <a href='/' className="rs-menu-toggle">
                                                     <i className="fa fa-bars" />
                                                 </a>
                                             </div>
@@ -81,7 +81,7 @@ function Header() {
                                                         <Link to={"/"}>Home</Link>
                                                     </li>
                                                     <li className="menu-item-has-children">
-                                                        <a href="#">About Us</a>
+                                                        <a href="/">About Us</a>
                                                         <ul className="sub-menu">
                                                             <li className="menu-item-has-children">
                                                                 <Link to={"/mission"}>Our Mission</Link>
@@ -90,7 +90,7 @@ function Header() {
                                                                 <a href="services-single.html">Our Vission</a>
                                                             </li>
                                                             <li className="menu-item-has-children">
-                                                                <a href="#">Our Objective</a>
+                                                                <a href="/">Our Objective</a>
                                                             </li>
                                                             <li>
                                                                 <a href="price-tables.html">Our History</a>
@@ -98,7 +98,7 @@ function Header() {
                                                         </ul>
                                                     </li>
                                                     <li className="menu-item-has-children">
-                                                        <a href="#">Our Team</a>
+                                                        <a href="/">Our Team</a>
                                                         <ul className="sub-menu">
                                                             <li>
                                                                 <Link to={"/gccteam"}>GCC Team</Link>
@@ -112,7 +112,7 @@ function Header() {
                                                         </ul>
                                                     </li>
                                                     <li className="menu-item-has-children">
-                                                        <a href="#">Activities</a>
+                                                        <a href="/">Activities</a>
                                                         <ul className="sub-menu">
                                                             <li>
                                                                 <a href="blog.html">Socio Charitable</a>
@@ -126,7 +126,7 @@ function Header() {
                                                         </ul>
                                                     </li>
                                                     <li className="menu-item-has-children">
-                                                        <a href="#">Gallery</a>
+                                                        <a href="/">Gallery</a>
                                                         <ul className="sub-menu">
                                                             <li>
                                                                 <Link to={"/videos"}>Videos</Link>

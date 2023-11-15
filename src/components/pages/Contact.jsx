@@ -212,7 +212,7 @@ function Contact() {
                         </div>
                     </div>
                     <div className="g-map mt-100 md-mt-80">
-                        <iframe src="https://maps.google.com/maps?q=37.803467%2C%20-122.472369&t=&z=13&ie=UTF8&iwloc=&output=embed" />
+                        <iframe src="https://maps.google.com/maps?q=37.803467%2C%20-122.472369&t=&z=13&ie=UTF8&iwloc=&output=embed" title='uac'/>
                     </div>
                 </div>
             </div>

@@ -47,7 +47,7 @@ function OurMission() {
                                     <li>Change in the volume of expected sales</li>
                                 </ul>
                                 <div className="btn-part">
-                                    <a className="readon" href="#">
+                                    <a className="readon" href="/">
                                         Discover More
                                     </a>
                                 </div>

@@ -47,13 +47,13 @@ function Members() {
                                 />
                                 {/* Social Info*/}
                                 <div className="social-info">
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-facebook" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-twitter" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-linkedin" />
                                     </a>
                                 </div>
@@ -84,13 +84,13 @@ function Members() {
                                 />
                                 {/* Social Info*/}
                                 <div className="social-info">
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-facebook" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-twitter" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-linkedin" />
                                     </a>
                                 </div>
@@ -121,13 +121,13 @@ function Members() {
                                 />
                                 {/* Social Info*/}
                                 <div className="social-info">
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-facebook" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-twitter" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-linkedin" />
                                     </a>
                                 </div>
@@ -158,13 +158,13 @@ function Members() {
                                 />
                                 {/* Social Info*/}
                                 <div className="social-info">
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-facebook" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-twitter" />
                                     </a>
-                                    <a href="#">
+                                    <a href="/">
                                         <i className="fa fa-linkedin" />
                                     </a>
                                 </div>

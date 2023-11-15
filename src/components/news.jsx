@@ -14,11 +14,12 @@ function News() {
                             <div className="col-md-4">
                                 <div className="card card-blog">
                                     <div className="card-image">
-                                        <a href="#">
+                                        <a href="/">
                                             {" "}
                                             <img
                                                 className="img"
                                                 src="http://adamthemes.com/demo/code/cards/images/blog01.jpeg"
+                                                alt=''
                                             />{" "}
                                         </a>
                                         <div className="ripple-cont" />
@@ -28,24 +29,24 @@ function News() {
                                             <i className="fa fa-soundcloud" /> Music
                                         </h6>
                                         <h4 className="card-caption">
-                                            <a href="#">
+                                            <a href="/">
                                                 Vivamus odio ante, feugiat eget nisi sit amet, dignissim velit
                                             </a>
                                         </h4>
                                         <div className="ftr">
                                             <div className="author">
-                                                <a href="#">
+                                                <a href="/">
                                                     {" "}
                                                     <img
                                                         src="http://adamthemes.com/demo/code/cards/images/avatar3.png"
-                                                        alt="..."
+                                                        alt=""
                                                         className="avatar img-raised"
                                                     />{" "}
                                                     <span>Debbon Amet</span>{" "}
                                                 </a>
                                             </div>
                                             <div className="stats">
-                                                {" "}
+                                                {" "} 
                                                 <i className="fa fa-clock-o" /> 15 min{" "}
                                             </div>
                                         </div>
@@ -55,11 +56,12 @@ function News() {
                             <div className="col-md-4">
                                 <div className="card card-blog">
                                     <div className="card-image">
-                                        <a href="#">
+                                        <a href="/">
                                             {" "}
                                             <img
                                                 className="img"
                                                 src="http://adamthemes.com/demo/code/cards/images/blog01.jpeg"
+                                                alt=''
                                             />{" "}
                                         </a>
                                         <div className="ripple-cont" />
@@ -69,17 +71,17 @@ function News() {
                                             <i className="fa fa-soundcloud" /> Music
                                         </h6>
                                         <h4 className="card-caption">
-                                            <a href="#">
+                                            <a href="/">
                                                 Vivamus odio ante, feugiat eget nisi sit amet, dignissim velit
                                             </a>
                                         </h4>
                                         <div className="ftr">
                                             <div className="author">
-                                                <a href="#">
+                                                <a href="/">
                                                     {" "}
                                                     <img
                                                         src="http://adamthemes.com/demo/code/cards/images/avatar3.png"
-                                                        alt="..."
+                                                        alt=''
                                                         className="avatar img-raised"
                                                     />{" "}
                                                     <span>Debbon Amet</span>{" "}
@@ -97,11 +99,12 @@ function News() {
                             <div className="col-md-4">
                                 <div className="card card-blog">
                                     <div className="card-image">
-                                        <a href="#">
+                                        <a href="/">
                                             {" "}
                                             <img
                                                 className="img"
                                                 src="http://adamthemes.com/demo/code/cards/images/blog01.jpeg"
+                                                alt=''
                                             />{" "}
                                         </a>
                                         <div className="ripple-cont" />
@@ -111,17 +114,17 @@ function News() {
                                             <i className="fa fa-soundcloud" /> Music
                                         </h6>
                                         <h4 className="card-caption">
-                                            <a href="#">
+                                            <a href="/">
                                                 Vivamus odio ante, feugiat eget nisi sit amet, dignissim velit
                                             </a>
                                         </h4>
                                         <div className="ftr">
                                             <div className="author">
-                                                <a href="#">
+                                                <a href="/">
                                                     {" "}
                                                     <img
                                                         src="http://adamthemes.com/demo/code/cards/images/avatar3.png"
-                                                        alt="..."
+                                                        alt=""
                                                         className="avatar img-raised"
                                                     />{" "}
                                                     <span>Debbon Amet</span>{" "}
