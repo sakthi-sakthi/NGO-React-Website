@@ -191,7 +191,7 @@ function Contact() {
                                             </div>
                                             <div className="col-md-12">
                                                 <ReCAPTCHA
-                                                    sitekey="6LdDXxApAAAAACXkbXcaJQBh2Jt4F60qHtZ2dztr"
+                                                    sitekey="6LdLXhApAAAAAGwc3zM9rEvxvi5AWM2QodHNB4Rt"
                                                     onChange={handleRecaptchaChange}
                                                 />
                                                 <br />
