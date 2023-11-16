@@ -10,7 +10,7 @@ function Contact() {
     const [formData, setFormData] = useState({
         name: '',
         email: '',
-        phone: '',
+        mobile: '',
         message: '',
     });
 
@@ -45,12 +45,12 @@ function Contact() {
             toast.error("Please enter a valid email address.");
             return;
         }
-        if (!formData.phone || !/^\d+$/.test(formData.phone)) {
-            toast.error("Please enter a valid phone number with only numbers.");
+        if (!formData.mobile || !/^\d+$/.test(formData.mobile)) {
+            toast.error("Please enter a valid mobile number with only numbers.");
             return;
         }
-        if (formData.phone.length !== 10) {
-            toast.error("Phone number must be exactly 10 digits long.");
+        if (formData.mobile.length !== 10) {
+            toast.error("Mobile number must be exactly 10 digits long.");
             return;
         }
         if (!formData.message) {
@@ -78,7 +78,7 @@ function Contact() {
             setFormData({
                 name: '',
                 email: '',
-                phone: '',
+                mobile: '',
                 message: '',
             });
 
@@ -115,7 +115,7 @@ function Contact() {
                                             <i className="fa fa-at" />
                                         </div>
                                         <div className="content-part">
-                                            <h4 className="title">Phone Number</h4>
+                                            <h4 className="title">Mobile Number</h4>
                                             <a href="tel:+088589-8745">(+088)589-8745</a>
                                         </div>
                                     </div>
@@ -174,8 +174,8 @@ function Contact() {
                                             <div className="col-md-12">
                                                 <input
                                                     type="text"
-                                                    name="phone"
-                                                    placeholder="Phone Number"
+                                                    name="mobile"
+                                                    placeholder="mobile Number"
                                                     required=""
                                                     onChange={handleChange}
                                                 />

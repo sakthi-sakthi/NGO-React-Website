@@ -3683,7 +3683,8 @@ input[type=range]::-ms-fill-upper {
     03. Header Section CSS
 ---------------------------------------*/
 .full-width-header .toolbar-area {
-  background: rgb(17 38 134);
+  /* background: rgb(17 38 134); */
+  background: rgb(226 138 51);;
 }
 .full-width-header .toolbar-area .toolbar-contact ul {
   margin: 0;
@@ -3835,7 +3836,7 @@ input[type=range]::-ms-fill-upper {
   display: none;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.sub-menu {
-  background: rgb(17 38 134);
+  background: rgb(226 138 51);
   margin: 0;
   padding: 15px 0;
   border-radius: 0 0 5px 5px;
@@ -3861,7 +3862,7 @@ input[type=range]::-ms-fill-upper {
   text-transform: capitalize;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a:hover {
-  color: #ccc !important;
+  color: #000 !important;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a:before {
   display: none;

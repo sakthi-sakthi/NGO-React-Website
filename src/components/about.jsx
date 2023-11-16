@@ -15,18 +15,19 @@ function About() {
                             <div className="sec-title">
                                 <div className="sub-title gray-color">About Us</div>
                                 <h2 className="title mb-30">
-                                    Choose Reobiz For Your{" "}
-                                    <span className="d-block blue-color">HR Management</span>
+                                    Choose UAC India For Your{" "}
+                                    <span className="d-block blue-color">Non Profit Organization</span>
                                 </h2>
                                 <p className="desc2">
-                                    Creation timelines for the standard lorem ipsum passage vary, with
-                                    some citing the 15th century and others the 20th.
+                                    We are a nonprofit organization that works to improve the lives of people in need around the world. We have over 25 years of experience in human resource management, delivering effective and sustainable solutions to the most pressing challenges of our time.
                                 </p>
                                 <div className="desc">
-                                    Id hinc sapientem eam, has novum putent an. Ei sit definiebas
-                                    concludaturque, cum ad sanctus ocurreret. Wisi eruditi democritum
-                                    est an, porro noluisse ut pri, ne tantas essent corpora vel.
-                                    Ponderum recusabo vim te. Elitr verear praesent has ne.
+                                    <h5>Our Vision</h5>
+                                    We envision a world where everyone has the opportunity to live a healthy, productive, and fulfilling life.
+                                </div>
+                                <div className="desc mt-20">
+                                    <h5>Our Mission</h5>
+                                    We empower people to overcome poverty, inequality, and injustice, by providing them with education, health, livelihoods, and humanitarian assistance.
                                 </div>
                                 <div className="btn-part mt-45">
                                     <a className="readon blue-btn" href="contact.html">

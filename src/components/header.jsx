@@ -5,7 +5,7 @@ function Header() {
     return (
         <>
             <div className="full-width-header header-style4">
-                <div className="toolbar-area hidden-md">
+                <div className="toolbar-area hidden-md" style={{height:"40px"}}>
                     <div className="container">
                         <div className="row">
                             <div className="col-md-5">
